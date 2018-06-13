@@ -148,11 +148,9 @@ public class MainActivity extends AppCompatActivity {
 						if (v.getId() == R.id.button0) {
 							if (divideFlag) {
 								zeroDivideFlag = true;
-							}else {
-							}
+							}else {}
 							zeroFlag = true;
-						}else {
-						}
+						}else {}
 						strtmp = button.getText().toString();
 						result = Double.parseDouble(strtmp);
 						textView.setText((format(result)));
@@ -168,8 +166,7 @@ public class MainActivity extends AppCompatActivity {
 								strtmp += button.getText().toString();
 								if (strtmp.length() >= 9) {
 									strtmp = strtmp.substring(0,8);
-								}else {
-								}
+								}else {}
 								textView.setText(strtmp);
 								result = Double.parseDouble(textView.getText().toString());
 							}
@@ -188,8 +185,7 @@ public class MainActivity extends AppCompatActivity {
 							}
 							if (strtmp.length() >= 9) {
 								strtmp = strtmp.substring(0,8);
-							}else {
-							}
+							}else {}
 							textView.setText(strtmp);
 							result = Double.parseDouble(textView.getText().toString());
 							zeroFlag = false;
@@ -206,8 +202,7 @@ public class MainActivity extends AppCompatActivity {
 				}else if (v.getId() == R.id.button0){
 					if (divideFlag) {
 						zeroDivideFlag = true;
-					}else {
-					}
+					}else {}
 					zeroFlag = true;
 					strtmp = button.getText().toString();
 				}else {

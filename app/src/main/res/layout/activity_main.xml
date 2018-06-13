@@ -46,7 +46,6 @@
 
         <Button
             android:id="@+id/invert_btn"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_column="1"
@@ -59,7 +58,6 @@
 
         <Button
             android:id="@+id/per_btn"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_column="1"
@@ -72,7 +70,6 @@
 
         <Button
             android:id="@+id/divide_btn"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_column="0"
@@ -93,7 +90,6 @@
 
         <Button
             android:id="@+id/button7"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_column="0"
@@ -106,7 +102,6 @@
 
         <Button
             android:id="@+id/button8"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_column="1"
@@ -119,7 +114,6 @@
 
         <Button
             android:id="@+id/button9"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_column="2"
@@ -132,7 +126,6 @@
 
         <Button
             android:id="@+id/multiply_btn"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -151,7 +144,6 @@
 
         <Button
             android:id="@+id/button4"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -162,7 +154,6 @@
 
         <Button
             android:id="@+id/button5"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -173,7 +164,6 @@
 
         <Button
             android:id="@+id/button6"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -184,7 +174,6 @@
 
         <Button
             android:id="@+id/sub_btn"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -202,7 +191,6 @@
 
         <Button
             android:id="@+id/button1"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -213,7 +201,6 @@
 
         <Button
             android:id="@+id/button2"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -224,7 +211,6 @@
 
         <Button
             android:id="@+id/button3"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -235,7 +221,6 @@
 
         <Button
             android:id="@+id/add_btn"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -254,7 +239,6 @@
 
         <Button
             android:id="@+id/button0"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:gravity="left|center"
             android:paddingLeft="40sp"
@@ -267,7 +251,6 @@
 
         <Button
             android:id="@+id/period_btn"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -278,7 +261,6 @@
 
         <Button
             android:id="@+id/result_btn"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
