@@ -1,2 +1,2 @@
 ## CalculatorApp
-Created at May 2017.
+Created for practice in May 2017.
